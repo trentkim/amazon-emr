@@ -1,0 +1,1 @@
+ssh -i ./238074142128.pem -N -L 8088:ec2-34-227-58-231.compute-1.amazonaws.com:8088 hadoop@ec2-34-227-58-231.compute-1.amazonaws.com
